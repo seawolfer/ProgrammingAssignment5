@@ -32,8 +32,7 @@ hist(powerDT[, Global_active_power], main="Global Active Power",
 
 dev.off()
 ```
-![]
-(https://github.com/seawolfer/ProgrammingAssignment5/blob/master/plot1.png)
+![](https://github.com/seawolfer/ProgrammingAssignment5/blob/master/plot1.png)
 ```R
 library("data.table")
 
